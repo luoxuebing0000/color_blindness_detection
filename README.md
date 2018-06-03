@@ -2,17 +2,14 @@
 
 ## 说明
 	
-	* 编译说明
-		> 搭建了arm的交叉编译环境
-		> 编译命令： arm-linux-gcc *.c -o main -lpthread (在./src目录里面)　	
-
 	* 项目说明
 		> 此项目仅适用于粤嵌提供的arm型嵌入式开发板，里面涉及到文件IO操作、
 		> 偏移量操作、bmp图片解析、屏幕点击、滑动、按压事件的操作、随机数的生成。
 
 	* 编译说明
 		> 搭建了arm的交叉编译环境
-		> 编译命令： arm-linux-gcc *.c -o main -lpthread (在./src目录里面)
+		> 编译命令： arm-linux-gcc *.c -o main -lpthread (在./src目录里面)　	
+
 
 ## 5张色盲检测图片的正确按钮设定
 
